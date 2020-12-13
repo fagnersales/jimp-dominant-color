@@ -1,0 +1,20 @@
+{
+  "name": "jimp-dominant-color",
+  "version": "1.0.0",
+  "description": "Gets the dominant color of an image using Jimp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fagnersales/jimp-dominant-color.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fagnersales/jimp-dominant-color/issues"
+  },
+  "homepage": "https://github.com/fagnersales/jimp-dominant-color#readme"
+}
