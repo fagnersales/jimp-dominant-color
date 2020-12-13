@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/fagnersales/jimp-dominant-color/issues"
   },
-  "homepage": "https://github.com/fagnersales/jimp-dominant-color#readme"
+  "homepage": "https://github.com/fagnersales/jimp-dominant-color#readme",
+  "dependencies": {
+    "jimp": "^0.16.1"
+  }
 }
